@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 100;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Thin/complete/JetBrains%20Mono%20Thin%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 200;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/ExtraLight/complete/JetBrains%20Mono%20ExtraLight%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 300;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Light/complete/JetBrains%20Mono%20Light%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 400;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 500;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Medium/complete/JetBrains%20Mono%20Medium%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 600;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/SemiBold/complete/JetBrains%20Mono%20SemiBold%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 700;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Bold/complete/JetBrains%20Mono%20Bold%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
+@font-face {
+    font-family: "JetBrains Mono Nerd Font";
+    font-weight: 800;
+    src: url("https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/ExtraBold/complete/JetBrains%20Mono%20ExtraBold%20Nerd%20Font%20Complete%20Mono.ttf") format('truetype');
+}
